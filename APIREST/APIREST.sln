@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIREST", "APIREST\APIREST.csproj", "{14820800-C143-4080-9EE3-5E79B56C64F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aplicacion", "Aplicacion\Aplicacion.csproj", "{4CD1A551-06CC-499D-97ED-618C24977FCE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14820800-C143-4080-9EE3-5E79B56C64F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14820800-C143-4080-9EE3-5E79B56C64F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14820800-C143-4080-9EE3-5E79B56C64F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14820800-C143-4080-9EE3-5E79B56C64F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CD1A551-06CC-499D-97ED-618C24977FCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CD1A551-06CC-499D-97ED-618C24977FCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CD1A551-06CC-499D-97ED-618C24977FCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CD1A551-06CC-499D-97ED-618C24977FCE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0DE233A9-AD19-497B-875D-199CFC7E84BF}
+	EndGlobalSection
+EndGlobal
