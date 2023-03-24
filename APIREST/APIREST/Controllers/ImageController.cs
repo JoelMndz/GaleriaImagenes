@@ -45,7 +45,7 @@ namespace APIREST.Controllers
         private async Task<string> Upload(string base64)
         {
             // Es esta parte deben poner sus credenciales de Cloudinary: username, api_key, api_secret
-            var cloudinary = new Cloudinary(new Account("TU_USER", "TU_API_KEY", "TU_API_SECRET"));
+            var cloudinary = new Cloudinary(new Account("dtim15nqh", "648621655632133", "mBWAvenJC_KiKKVHFZASHYcQDh4"));
             cloudinary.Api.Secure = true;
             var uploadParams = new ImageUploadParams()
             {

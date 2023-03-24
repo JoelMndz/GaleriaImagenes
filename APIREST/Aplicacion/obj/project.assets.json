@@ -1916,11 +1916,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\luisj\\Desktop\\Proyecto Galeria\\APIREST\\Aplicacion\\Aplicacion.csproj",
+      "projectUniqueName": "C:\\Users\\luisj\\Desktop\\GaleriaImagenes\\APIREST\\Aplicacion\\Aplicacion.csproj",
       "projectName": "Aplicacion",
-      "projectPath": "C:\\Users\\luisj\\Desktop\\Proyecto Galeria\\APIREST\\Aplicacion\\Aplicacion.csproj",
+      "projectPath": "C:\\Users\\luisj\\Desktop\\GaleriaImagenes\\APIREST\\Aplicacion\\Aplicacion.csproj",
       "packagesPath": "C:\\Users\\luisj\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\luisj\\Desktop\\Proyecto Galeria\\APIREST\\Aplicacion\\obj\\",
+      "outputPath": "C:\\Users\\luisj\\Desktop\\GaleriaImagenes\\APIREST\\Aplicacion\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\luisj\\AppData\\Roaming\\NuGet\\NuGet.Config",

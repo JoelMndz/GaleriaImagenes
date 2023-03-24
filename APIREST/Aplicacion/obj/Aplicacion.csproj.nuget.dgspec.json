@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\luisj\\Desktop\\Proyecto Galeria\\ApiRest\\Aplicacion\\Aplicacion.csproj": {}
+    "C:\\Users\\luisj\\Desktop\\GaleriaImagenes\\APIREST\\Aplicacion\\Aplicacion.csproj": {}
   },
   "projects": {
-    "C:\\Users\\luisj\\Desktop\\Proyecto Galeria\\ApiRest\\Aplicacion\\Aplicacion.csproj": {
+    "C:\\Users\\luisj\\Desktop\\GaleriaImagenes\\APIREST\\Aplicacion\\Aplicacion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\luisj\\Desktop\\Proyecto Galeria\\ApiRest\\Aplicacion\\Aplicacion.csproj",
+        "projectUniqueName": "C:\\Users\\luisj\\Desktop\\GaleriaImagenes\\APIREST\\Aplicacion\\Aplicacion.csproj",
         "projectName": "Aplicacion",
-        "projectPath": "C:\\Users\\luisj\\Desktop\\Proyecto Galeria\\ApiRest\\Aplicacion\\Aplicacion.csproj",
+        "projectPath": "C:\\Users\\luisj\\Desktop\\GaleriaImagenes\\APIREST\\Aplicacion\\Aplicacion.csproj",
         "packagesPath": "C:\\Users\\luisj\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\luisj\\Desktop\\Proyecto Galeria\\ApiRest\\Aplicacion\\obj\\",
+        "outputPath": "C:\\Users\\luisj\\Desktop\\GaleriaImagenes\\APIREST\\Aplicacion\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\luisj\\AppData\\Roaming\\NuGet\\NuGet.Config",
